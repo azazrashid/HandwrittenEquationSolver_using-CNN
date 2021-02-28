@@ -3,6 +3,7 @@
 This is a Handwritten Equation solver using CNN code written in Python.
 
 Download the dataset from this link https://www.kaggle.com/xainano/handwrittenmathsymbols
+
 Equation can contain any digit from 0-9 and symbol +,x,- 
 This works on images with white background and digits/symbols in black.
 
